@@ -12,5 +12,5 @@ dbt:
       user: dbt
       password: dbt
       dbname: dbt
-      schema: dbt_output
+      schema: transformed
       threads: 3
